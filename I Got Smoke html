@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>YY丁真</title>
+	</head>
+	<body bgcolor="600*red grade">
+	<!--注释-->
+	<h2>
+		<p align="center">
+	一眼丁真,鉴定为:脑袋进矢了</p></h2>
+	<hr><!--分割线-->
+	<pre>
+<img src="img/医研丁真.jpg" alt="医研丁真" height="100px">
+<audio controls>
+    <source src="I Got Smoke - V茌燃烧.mp3" type="audio/mpeg">
+</audio>
+<p align="center">
+	满身烟味的我
+	走路带上点浮夸
+	想买锐克5代
+	找我丁真就对啦
+	竖起中指王源他算个什么鸡巴
+	台上打饱嗝我在和雪豹比划
+	丁真势力正在不断地扩大
+	微博之夜掏裤裆我↑↑↓↓
+	迦乐心理防线被我轻松击垮
+	甜美微笑暴杀那些小镇做题家
+	脚叫做勾八	八八八八八
+	对你说藏话	啦啦啦啦啦
+	你不会回笼	回家找你妈
+	抽传统香烟	我测你们🐎
+	偶尔骑骑小马	理塘走一走
+	随掏出锐克	你也来一口
+	哥们不费力	就住进了高楼
+	理塘高速路	都五档起步走
+	去联合国学英语
+	哥们Let's go
+	回理塘实践
+	哥们Let's 抽
+	哥们哇啦哇啦乱唱听感就拉满了
+	你文化程度再高你也听不懂的
+	感觉这首歌技术不如丁真
+	因为你是肥猪体重要按吨
+	我投资锐克别TM倒闭了
+	有烟弹寄一个给理塘的丁真
+	
+	</p>
+	</pre><!--保留格式-->
+	<pre>
+		<p align="center">
+	你好,再见
+	will
+	大大大大大大大大大大大大大大大大大</p>
+	<ul>
+	<li>打牌</li>
+	<li>打牌</li>
+	<li>打牌</li>
+	<li>打牌</li>
+	<li>打牌</li>
+	<li>打牌</li>
+	<li>胡适之啊胡适之,怎能如此堕落</li>
+	<li>打牌</li>
+	</ol>
+	</pre>
+	
+	<dl>
+		<dt>中国</dt>
+			<dd>北京</dd>
+			<dd>天津</dd>
+			<dd>上海</dd>
+		<dt>美国</dt>
+			<dd>华盛顿</dd>
+			<dd>纽约</dd>
+			<dd>波士顿</dd>
+	</dl>
+	<a href="http://www.baidu.com.cn" target="_blank" title="百度搜索">百度</a><br>
+	<a href="./img/乳液狂飙.jpg" target="_self">原神甘雨乳液狂飙</a>
+	
+	<!--table的属性-->
+	<!--border是边框的宽度-->
+	<!--cellpadding:是单元格内文字与边框的距离-->
+	<!--cellspacing:是单元格之间的距离-->
+	<table border=1 cellpadding=20 cellspacing=20>
+		<caption>学生信息表</caption>
+		<tr>
+			<th>姓名</th>
+			<th>学号</th>
+			<th>年龄</th>
+			<th>籍贯</th>
+			<th>测试</th>
+		</tr>
+		<tr>
+			<td>山鸡</td>
+			<td>1班</td>
+			<td>18</td>
+			<td>山东</td>
+			<td>23</td>
+		</tr>
+		<tr>
+			<td>佳美娜</td>
+			<td>1班</td>
+			<td>14</td>
+			<td>山南</td>
+			<td>32</td>
+		</tr>
+	</table>
+	
+	</body>
+</html>
